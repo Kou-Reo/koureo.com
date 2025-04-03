@@ -1,0 +1,4 @@
+baseURL = 'https://koureo.com/'
+languageCode = 'en-us'
+title = 'KouReo'
+theme = "KouOrganize"

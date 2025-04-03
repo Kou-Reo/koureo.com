@@ -1,0 +1,3 @@
+[submodule "themes/KouOrganize"]
+	path = themes/KouOrganize
+	url = https://github.com/Kou-Reo/Hugo.KouOrganize.git
