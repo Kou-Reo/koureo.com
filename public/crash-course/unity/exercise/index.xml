@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exercise on KouReo</title>
+    <link>http://localhost:1313/crash-course/unity/exercise/</link>
+    <description>Recent content in Exercise on KouReo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Apr 2025 01:09:02 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/crash-course/unity/exercise/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pingpong</title>
+      <link>http://localhost:1313/crash-course/unity/exercise/pingpong/</link>
+      <pubDate>Fri, 04 Apr 2025 01:09:02 +0700</pubDate>
+      <guid>http://localhost:1313/crash-course/unity/exercise/pingpong/</guid>
+      <description>&lt;p&gt;ini adalah pingpong&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>tetris</title>
+      <link>http://localhost:1313/crash-course/unity/exercise/tetris/</link>
+      <pubDate>Fri, 04 Apr 2025 01:09:02 +0700</pubDate>
+      <guid>http://localhost:1313/crash-course/unity/exercise/tetris/</guid>
+      <description>&lt;p&gt;ini adalah tetris&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

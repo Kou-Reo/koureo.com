@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unity on KouReo</title>
+    <link>http://localhost:1313/crash-course/unity/</link>
+    <description>Recent content in Unity on KouReo</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Apr 2025 01:09:51 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/crash-course/unity/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Second Post</title>
+      <link>http://localhost:1313/crash-course/unity/my-second-post/</link>
+      <pubDate>Fri, 04 Apr 2025 01:09:51 +0700</pubDate>
+      <guid>http://localhost:1313/crash-course/unity/my-second-post/</guid>
+      <description>&lt;p&gt;post jedua yang saya buat di crash course&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/crash-course/unity/my-first-post/</link>
+      <pubDate>Fri, 04 Apr 2025 01:09:02 +0700</pubDate>
+      <guid>http://localhost:1313/crash-course/unity/my-first-post/</guid>
+      <description>&lt;p&gt;ini adalah post dalam crash course&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
