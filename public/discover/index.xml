@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/discover/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cool Website</title>
-      <link>http://localhost:1313/discover/cool_website/</link>
+      <link>http://localhost:1313/discover/cool-website/</link>
       <pubDate>Fri, 04 Apr 2025 01:08:53 +0700</pubDate>
-      <guid>http://localhost:1313/discover/cool_website/</guid>
+      <guid>http://localhost:1313/discover/cool-website/</guid>
       <description>&lt;h2 id=&#34;kindpng&#34;&gt;&lt;a href=&#34;https://www.kindpng.com/&#34;&gt;kindpng&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;removebg&#34;&gt;&lt;a href=&#34;https://www.remove.bg/&#34;&gt;removebg&lt;/a&gt;&lt;/h2&gt;</description>
     </item>
   </channel>

@@ -6,6 +6,7 @@ date = '2025-04-04T01:08:53+07:00'
 lastmod = '2025-04-04T01:08:53+07:00'
 itemimage = 'images/material_category.png'
 draft = false
+weight = 1
 +++
 
 Saya adalah koureo

@@ -6,8 +6,22 @@
     <description>Recent content on KouReo</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Apr 2025 01:08:53 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 22:15:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>http://localhost:1313/crash-course/hugo/hello-world/</link>
+      <pubDate>Sun, 06 Apr 2025 22:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/crash-course/hugo/hello-world/</guid>
+      <description>&lt;p&gt;Todo, isi page ini&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Inserting Data</title>
+      <link>http://localhost:1313/crash-course/sql/inserting-data/</link>
+      <pubDate>Sun, 06 Apr 2025 22:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/crash-course/sql/inserting-data/</guid>
+      <description>&lt;p&gt;Todo, isi page ini&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
       <link>http://localhost:1313/about/</link>
@@ -24,10 +38,24 @@
     </item>
     <item>
       <title>Cool Website</title>
-      <link>http://localhost:1313/discover/cool_website/</link>
+      <link>http://localhost:1313/discover/cool-website/</link>
       <pubDate>Fri, 04 Apr 2025 01:08:53 +0700</pubDate>
-      <guid>http://localhost:1313/discover/cool_website/</guid>
+      <guid>http://localhost:1313/discover/cool-website/</guid>
       <description>&lt;h2 id=&#34;kindpng&#34;&gt;&lt;a href=&#34;https://www.kindpng.com/&#34;&gt;kindpng&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;h2 id=&#34;removebg&#34;&gt;&lt;a href=&#34;https://www.remove.bg/&#34;&gt;removebg&lt;/a&gt;&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Thanks</title>
+      <link>http://localhost:1313/thanks/</link>
+      <pubDate>Fri, 04 Apr 2025 01:08:53 +0700</pubDate>
+      <guid>http://localhost:1313/thanks/</guid>
+      <description>&lt;h2 id=&#34;thanks-for-cool-icons&#34;&gt;Thanks for cool icons&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/thanks&#34;&gt;Thanks icons by LAFS&lt;/a&gt; &lt;em&gt;images/thanks.png&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://www.flaticon.com/free-icons/online-test&#34;&gt;Online test icons by Vectorslab&lt;/a&gt; &lt;em&gt;images/owl.png&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Wiewing Data</title>
+      <link>http://localhost:1313/crash-course/sql/viewing-data/</link>
+      <pubDate>Sun, 06 Apr 2025 22:15:00 +0000</pubDate>
+      <guid>http://localhost:1313/crash-course/sql/viewing-data/</guid>
+      <description>&lt;p&gt;Todo, isi page ini&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
